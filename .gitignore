@@ -1,0 +1,5 @@
+.DS_Store
+.venv
+.vscode
+fx_rate/__pycache__
+fx_rate/scheduler.py
