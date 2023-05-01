@@ -1,2 +1,2 @@
-Flask==1.1.1
+Flask==2.3.2
 selenium==3.141.0
